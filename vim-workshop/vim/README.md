@@ -105,3 +105,13 @@ There are motions that puts us into insert mode, ready to start typing. This is 
 * `/` - makes a forward search. To jump to the next match, type `n`. To jump to the prev match, type `N`.
 * `f{char}` - jumps to the next {char}. Very useful! You can combine that with delete: `df)` - delete until the next `)` char.
 * `;` - repeat last search - to repeat the `f{char}`, you can type `;` - this will jump to the next match
+
+## Materials
+
+
+* Run `vimtutor` command in your shell.
+* http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
+* http://bullium.com/support/vim.html
+* http://vim.wikia.com/wiki/Tutorial
+* http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
+
