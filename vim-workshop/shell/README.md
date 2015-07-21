@@ -82,10 +82,3 @@ Pretty useful command to jump into directories. Remembers your choices and makes
 
 * [Install z](https://github.com/rupa/z)
 
-
-## Materials
-
-* http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
-* http://bullium.com/support/vim.html
-* http://vim.wikia.com/wiki/Tutorial
-* http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
