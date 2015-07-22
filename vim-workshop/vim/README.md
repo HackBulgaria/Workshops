@@ -110,8 +110,10 @@ There are motions that puts us into insert mode, ready to start typing. This is 
 
 
 * Run `vimtutor` command in your shell.
-* http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/
-* http://bullium.com/support/vim.html
-* http://vim.wikia.com/wiki/Tutorial
-* http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
-
+* <http://vimcasts.org/blog/2013/02/habit-breaking-habit-making/>
+* <http://bullium.com/support/vim.html>
+* <http://vim.wikia.com/wiki/Tutorial>
+* <http://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping>
+* We recommend this book - <https://pragprog.com/book/dnvim/practical-vim>
+* [Vim commands cheatsheet](http://www.fprintf.net/vimCheatSheet.html)
+* [Vim introduction from the FMI Ruby course](https://github.com/fmi/ruby-course-guides/blob/master/vim.md)
